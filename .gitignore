@@ -1,0 +1,7 @@
+.settings/
+Debug/
+Drivers/
+.mxproject
+STM32H7_ADC*
+.cproject
+.project
